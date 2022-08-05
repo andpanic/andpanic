@@ -17,10 +17,9 @@
           
   <img align="center" alt="Ana-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   
-  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;"
-       src=""/>
   
-  
-
+ 
+<img src="https://thumbs2.imgbox.com/b0/d3/ZWlxBgQh_t.jpg" alt="image host"/></a>
+ 
 
  
