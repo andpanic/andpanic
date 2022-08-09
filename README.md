@@ -9,7 +9,7 @@
    
    ##
    <div style="display:flex; " align="center">
-    <img src="https://thumbs2.imgbox.com/b0/d3/ZWlxBgQh_t.jpg" alt="image host"/> 
+   <img src="ana2.png" alt="image host" width="350"/> 
     </div>
      
    <img  alt="Ana-JS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,3 +22,11 @@
            
    <img alt="Ana-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    
+
+<a href="https://www.linkedin.com/in/andpanic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
