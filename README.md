@@ -1,4 +1,7 @@
-## Olá, eu sou a Ana Carvalho! 
+## <div align="center"> Olá, eu sou a Ana Carvalho!
+ 
+ 
+ 
  <div align="center">
    <a href="https://github.com/andpanic">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andpanic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,19 +14,22 @@
    <div style="display:flex; " align="center">
    <img src="ana.png" alt="image host" width="100"/> 
     </div>
-     
-   <img  alt="Ana-JS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   
-   
-  <img  alt="Ana-TS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-           
- 
-   <img alt="Ana-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-           
-   <img alt="Ana-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-   
-
+    
+<img src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+    
+##
 <a href="https://www.linkedin.com/in/andpanic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<a href = "mailto:acarolina918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+  
   
 </div>
 
