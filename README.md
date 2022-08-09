@@ -9,7 +9,7 @@
    
    ##
    <div style="display:flex; " align="center">
-   <img src="ana2.png" alt="image host" width="350"/> 
+   <img src="ana.png" alt="image host" width="100"/> 
     </div>
      
    <img  alt="Ana-JS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
