@@ -25,12 +25,19 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
     
 ##
-<a href="https://www.linkedin.com/in/andpanic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<a href = "mailto:acarolina918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  
+  
+<a href="https://www.linkedin.com/in/andpanic/">
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ritik-rawal-698a18142/](https://www.linkedin.com/in/andpanic/)"/>
+ 
+ <a href="mailto: acarolina918@gmail.com">
+ <img src="https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acarolina918@gmail.com"/>
+</a>
+ 
+</a>
+ 
     
-  
-  
 </div>
 
 
